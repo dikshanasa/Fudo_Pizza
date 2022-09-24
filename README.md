@@ -4,13 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[fudo-food-delivery-app.vercel.app](fudo-food-delivery-app.vercel.app)
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://github.com/lucky-hw-kim/foodDeliveryApp/blob/main/img/fudo-payondelivery.gif?raw=true" alt="project-screenshot" width="600" height="auto" align="center"/>
-
-<img src="https://github.com/lucky-hw-kim/foodDeliveryApp/blob/main/img/fudo-paynow.gif?raw=true" alt="project-screenshot" width="600" height="auto" align="center"/>
+[https://fudo-pizza-delivery.vercel.app/](fudo-pizza-delivery-app.vercel.app)
 
   
   
